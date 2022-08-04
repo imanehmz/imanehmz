@@ -1,8 +1,8 @@
 <h1 align="center"> Hey there! I'm Imane Hamzaoui 👋 </h1>
 
 [![Website](https://img.shields.io/website?label=ImaneHamzaoui.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hashnode.com/@imanehmz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imaneeh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imaneehm)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanehmz&label=Profile%20views&color=0e75b6&style=flat" alt="imanehmz" /> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/imaneeh?color=00ffd0&logo=twitter&style=for-the-badge)](https://twitter.com/imaneehm)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanehmz&label=Profile%20views&color=00ffd0&style=flat" alt="imanehmz" /> </p>
 
 
 ## I'm a Student, Web Developer, and a Future Data Scientist!!
@@ -37,7 +37,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="26" style="padding-right:10px;"/>
 <img align="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26" style="padding-right:10px;"/>
 <img  align="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="26" style="padding-right:10px;"/>
@@ -55,7 +54,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Imanehmz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imanehmz&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Imanehmz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imanehmz&show_icons=true&hide_border=false&title_color=00ffd0&icon_color=00ffd0&bg_color=09131B&text_color=ffffff&border_color=00ffd0" />
 
 </details>
 
