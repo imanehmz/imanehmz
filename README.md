@@ -1,42 +1,52 @@
-# Hey there! I'ma Imane Hamzaoui 👋 
+<h1 align="center"> Hey there! I'm Imane Hamzaoui 👋 </h1>
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hashnode.com/@imanehmz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imaneehm)
+[![Website](https://img.shields.io/website?label=ImaneHamzaoui.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hashnode.com/@imanehmz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/imaneeh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imaneehm)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanehmz&label=Profile%20views&color=0e75b6&style=flat" alt="imanehmz" /> </p>
 
 
 ## I'm a Student, Web Developer, and a Future Data Scientist!!
 
 - 🔭 I'm a data science and intelligent systems student
 - 🌱 I’m currently an IOT intern and a part time web developer
-- 👯 I’m looking to learning more!
-- 🥅 I like to read and write
+- 👨‍💻 I’m looking to learning more!
+- 📝 I like to read and write
 - ⚡ Fun fact: I love to lift lightweights
-- 😻 Check out my portfolio website: [Imaneeh](https://twitter.com/imaneehm)
+- 😻 Want to learn more about me? Check out my personal website: [Imaneeh](https://twitter.com/imaneehm)
 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://twitter.com/imaneehm)
 [![website](./img/globe-dark.svg)](https://twitter.com/imaneehm)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/imaneehm)
-[![website](./img/twitter-dark.svg)](https://twitter.com/imaneehm)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/imaneehm)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/imaneehm)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/imane-hamzaoui-667514199/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/imane-hamzaoui-667514199/)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/imane-hamzaoui-667514199/)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/imane-hamzaoui-667514199/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][webdevplaylist]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="26" style="padding-right:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26" style="padding-right:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="26" style="padding-right:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" style="padding-right:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="26" style="padding-right:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="26" style="padding-right:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26" style="padding-right:10px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="26" style="padding-right:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="26" style="padding-right:10px;"/>
 
 <br />
 <br />
