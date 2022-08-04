@@ -16,7 +16,8 @@
 ### Achievements
 <img src="./img/quickdraw-default.png" height="75px" width="75px">
 <img src="./img/pull-shark-default.png" height="75px" width="75px">
-### Connect with me:
+
+## Connect with me:
 
 [![website](./img/globe-light.svg)](https://twitter.com/imaneehm)
 [![website](./img/globe-dark.svg)](https://twitter.com/imaneehm)
