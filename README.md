@@ -19,16 +19,11 @@
 
 ## Connect with me:
 
-[![website](./img/globe-light.svg)](https://twitter.com/imaneehm)
-[![website](./img/globe-dark.svg)](https://twitter.com/imaneehm)
-&nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/imaneehm)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/imaneehm)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/imane-hamzaoui-667514199/)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/imane-hamzaoui-667514199/)
-&nbsp;&nbsp;
-
+<p align="left">
+<a href="https://twitter.com/imaneehm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhdlilia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/imane-hamzaoui-667514199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lilia mahdid" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/imanehamzaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lilia mahdid" height="30" width="40" /></a>
+</p>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
