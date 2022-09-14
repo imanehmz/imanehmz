@@ -52,7 +52,7 @@
 ---
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Imanehmz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imanehmz&show_icons=true&hide_border=false&title_color=00ffd0&icon_color=00ffd0&bg_color=09131B&text_color=ffffff&border_color=00ffd0" />
+  <img align="left" alt="Imanehmz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imanehmz&show_icons=true&count_private=true&hide_border=false&title_color=00ffd0&icon_color=00ffd0&bg_color=09131B&text_color=ffffff&border_color=00ffd0" />
 
 
 [website]: https://codeSTACKr.com
