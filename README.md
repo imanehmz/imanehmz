@@ -14,15 +14,16 @@
 - ⚡ Fun fact: I love to lift lightweights
 
 ### Achievements
+
 <img src="./img/quickdraw-default.png" height="75px" width="75px">
 <img src="./img/pull-shark-default.png" height="75px" width="75px">
 
 ## Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/imaneehm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhdlilia" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/imane-hamzaoui-667514199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lilia mahdid" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/imanehamzaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lilia mahdid" height="30" width="40" /></a>
+<a href="https://twitter.com/imaneehm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imanehmz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/imane-hamzaoui-667514199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imane hmz" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/imanehamzaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="imane" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
