@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! I'm Imane Hamzaoui 👋 </h1>
 
-[![Website](https://img.shields.io/website?label=ImaneHamzaoui.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hashnode.com/@imanehmz)
+[![Website](https://img.shields.io/website?label=imanehmz.herokuapp.com/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imanehmz.herokuapp.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imaneeh?color=00ffd0&logo=twitter&style=for-the-badge)](https://twitter.com/imaneehm)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanehmz&label=Profile%20views&color=00ffd0&style=flat" alt="imanehmz" /> </p>
 
@@ -8,8 +8,8 @@
 ## I'm a Student, Web Developer, and a Future Data Scientist!!
 
 - 🔭 I'm a data science and intelligent systems student
-- 🌱 I’m currently an IOT intern and a part time web developer
-- 👨‍💻 I’m looking to learning more!
+- 🌱 I’m currently a part-time IoT developer,a part time web developer and a process mining intern!
+- 👨‍💻 I’m currently learning about deep reinforcement learning
 - 📝 I like to read and write
 - ⚡ Fun fact: I love to lift lightweights
 
