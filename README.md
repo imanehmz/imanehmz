@@ -5,12 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanehmz&label=Profile%20views&color=00ffd0&style=flat" alt="imanehmz" /> </p>
 
 
-## I'm a Student, Web Developer, and a Future Data Scientist!!
+## I'm an Intellignet Systems and Data Science student, an IoT developer and a web developer sometimes!!
 
-- 🔭 I'm a data science and intelligent systems student
+- 🔭 I'm a data science and intelligent systems student at the National School of Computer Science Engineering
 - 🌱 I’m currently a part-time IoT developer,a part time web developer and a process mining intern!
-- 👨‍💻 I’m currently learning about deep reinforcement learning
+- 👨‍💻 I’m currently learning about predictive maintenance, NLP and much more
 - 📝 I like to read and write
+- 🌱 I invite you to volunteer and teach people what you know <3
 - ⚡ Fun fact: I love to lift lightweights
 
 ### Achievements
