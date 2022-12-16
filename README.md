@@ -1,6 +1,5 @@
 <h1 align="center"> Hey there! I'm Imane Hamzaoui 👋 </h1>
 
-[![Website](https://img.shields.io/website?label=imanehmz.herokuapp.com/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imanehmz.herokuapp.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imaneeh?color=00ffd0&logo=twitter&style=for-the-badge)](https://twitter.com/imaneehm)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanehmz&label=Profile%20views&color=00ffd0&style=flat" alt="imanehmz" /> </p>
 
