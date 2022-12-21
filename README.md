@@ -7,8 +7,8 @@
 ## I'm an Intellignet Systems and Data Science student, an IoT developer and a web developer sometimes!!
 
 - 🔭 I'm a data science and intelligent systems student at the National School of Computer Science Engineering
-- 🌱 I’m currently a part-time IoT developer,a part time web developer and a process mining intern!
-- 👨‍💻 I’m currently learning about predictive maintenance, NLP and much more
+- 🌱 I’m currently a part time web developer and working on a data collection project!
+- 👨‍💻 I’m currently learning about predictive maintenance and IoT
 - 📝 I like to read and write
 - 🌱 I invite you to volunteer and teach people what you know <3
 - ⚡ Fun fact: I love to lift lightweights
