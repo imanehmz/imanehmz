@@ -4,11 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanehmz&label=Profile%20views&color=00ffd0&style=flat" alt="imanehmz" /> </p>
 
 
-## I'm an Intelligent Systems and Data Science student, an IoT developer and a web developer sometimes!!
+## I'm an Intelligent Systems and Data Science student interested in neuromorphic computing!!
 
 - 🔭 I'm a data science and intelligent systems student at the National School of Computer Science Engineering
-- 🌱 I’m currently a part time web developer and working on a data collection project!
-- 👨‍💻 I’m currently learning about predictive maintenance and IoT
+- 👨‍💻 I'm and working on some cool research! 
 - 📝 I like to read and write
 - 🌱 I invite you to volunteer and teach people what you know <3
 - ⚡ Fun fact: I love to lift lightweights
