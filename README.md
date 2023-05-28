@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanehmz&label=Profile%20views&color=00ffd0&style=flat" alt="imanehmz" /> </p>
 
 
-## I'm an Intelligent Systems and Data Science student interested in neuromorphic computing!!
+## I'm an Intelligent Systems and Data Science student interested in bio-inspired computing!!
 
 - 🔭 I'm a data science and intelligent systems student at the National School of Computer Science Engineering
 - 👨‍💻 I'm and working on some cool research! 
