@@ -4,25 +4,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanehmz&label=Profile%20views&color=00ffd0&style=flat" alt="imanehmz" /> </p>
 
 
-## I'm an Intelligent Systems and Data Science student interested in bio-inspired computing!!
+## Intelligent Systems and Data Science student working on bio-inspired computing.
 
-- 🔭 I'm a data science and intelligent systems student at the National School of Computer Science Engineering
-- 👨‍💻 I'm and working on some cool research! 
-- 📝 I like to read and write
-- 🌱 I invite you to volunteer and teach people what you know <3
-- ⚡ Fun fact: I love to lift lightweights
+- 🔭 I'm a data science and intelligent systems student at Ecole Nationale Supérieure d'Informatique.
+- 👨‍💻 I'm working on some cool research inspired by the brain to understand the brain.
+- ⚡ Fun fact: I love to lift lightweights.
 
 ### Achievements
 
 <img src="./img/quickdraw-default.png" height="75px" width="75px">
 <img src="./img/pull-shark-default.png" height="75px" width="75px">
 
-## Connect with me:
+## Contact :
 
 <p align="left">
 <a href="https://twitter.com/imaneehm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imanehmz" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/imane-hamzaoui-667514199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imane hmz" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/imanehamzaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="imane" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
@@ -53,15 +50,3 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Imanehmz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imanehmz&show_icons=true&count_private=true&hide_border=false&title_color=00ffd0&icon_color=00ffd0&bg_color=09131B&text_color=ffffff&border_color=00ffd0" />
-
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
