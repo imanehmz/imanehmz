@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there! I'm Imane Hamzaoui 👋 </h1>
+<h1 align="center"> Hey there! I'm Imane 👋 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanehmz&label=Profile%20views&color=00ffd0&style=flat" alt="imanehmz" /> </p>
 
